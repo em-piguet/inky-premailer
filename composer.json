@@ -15,13 +15,13 @@
     ],
     "autoload": {
         "psr-4": {
-          "Dreamvention\\InkyPremailer\\": "src/"
+          "em-piguet\\InkyPremailer\\": "src/"
         }
     },
     "require": {
         "php": ">=5.4.0",
         "tijsverkoyen/css-to-inline-styles": "^2.2",
-        "hampe/inky": "1.3.6.2",
+        "rebelmiles/inky": "1.3.6.3",
         "paquettg/php-html-parser": "^2.1"
     }
 }
