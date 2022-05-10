@@ -1,12 +1,16 @@
 {
-    "name": "dreamvention/inky-premailer",
+    "name": "em-piguet/inky-premailer",
     "description": "Implementation of ZURB Inky + CssToInlineStyles. Compile responsive emails on the fly with ease.",
-    "version":     "1.0.3",
+    "version":     "1.0.4",
     "license": "MIT",
     "authors": [
         {
             "name": "Dmitriy Zhuk",
             "email": "dmitriyzhuk@gmail.com"
+        },
+        {
+            "name": "Emmanuel Piguet",
+            "email": "man@wonderweb.ch"
         }
     ],
     "autoload": {
